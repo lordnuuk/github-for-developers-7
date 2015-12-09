@@ -1,4 +1,0 @@
-- [ ] Lord Nuuk
-- [ ] Lives in Pune
-- [ ] Ex-prawnatarian
-- [ ] Music, reading and.. food :)
